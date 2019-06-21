@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2007144ea69f9044c82ae0753d5e533e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - spriteTransform: {instanceID: 0}
+  - ghostPrefab: {instanceID: 0}
+  - rippleEffectPrefab: {instanceID: 0}
+  - stepPrefab: {fileID: 392481917739163192, guid: 168d37d98de22a74b906ee54e2515592,
+      type: 3}
+  - particleSystem: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
